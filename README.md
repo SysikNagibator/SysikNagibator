@@ -23,7 +23,7 @@
 
 <br/>
 
-<!-- 🎯 ИКОНКИ-ФАКТЫ О ТЕБЕ (вместо текста) -->
+<!-- 🎯 ИКОНКИ-ФАКТЫ О ТЕБЕ -->
 <div align="center">
 
 <table>
@@ -146,43 +146,6 @@
 
 <br/>
 
-<!-- 🏆 ТРОФЕИ -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QvA9QnzmHRVR3DP1Dn/giphy.gif" width="30px"/>
-  Мои достижения
-</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SysikNagibator&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
-<!-- 💫 Линия-разделитель -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<br/>
-
-<!-- 🐍 ЗМЕЙКА КОММИТОВ -->
-<h2 align="center">
-  🐍 Мои коммиты кушают
-</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SysikNagibator/SysikNagibator/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
-<br/>
-
-<!-- 💫 Линия-разделитель -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<br/>
-
 <!-- 📫 СОЦСЕТИ -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"/>
@@ -190,17 +153,11 @@
 </h2>
 
 <div align="center">
-  <a href="https://t.me/[Твой_Telegram]">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=20"/>
-  </a>
-  <a href="https://vk.com/[Твой_VK]">
-    <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white&logoWidth=20"/>
-  </a>
-  <a href="mailto:[Твоя_Почта]">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20"/>
+  <a href="https://t.me/sysgood">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://github.com/SysikNagibator">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
@@ -208,8 +165,8 @@
 
 <!-- 👀 СЧЁТЧИК ПРОСМОТРОВ -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SysikNagibator&label=Просмотры+профиля&color=36BCF7&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/SysikNagibator?label=Подписчики&style=for-the-badge&color=36BCF7&logo=github"/>
+  <img src="https://komarev.com/ghpvc/?username=SysikNagibator&label=Profile+Views&color=36BCF7&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/SysikNagibator?label=Followers&style=for-the-badge&color=36BCF7&logo=github" alt="Followers"/>
 </div>
 
 <br/>

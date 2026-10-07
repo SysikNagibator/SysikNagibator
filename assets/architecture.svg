@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270">
+<rect x=".5" y=".5" width="899" height="269" rx="8" fill="#0A0A0A" stroke="#2E2E2E"/>
+<rect x="60" y="28" width="300" height="56" fill="#141414" stroke="#2E2E2E"/>
+<text x="210.0" y="61.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#E6E6E6">Агент в любой IDE</text>
+<rect x="540" y="28" width="300" height="56" fill="#141414" stroke="#2E2E2E"/>
+<text x="690.0" y="54.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#E6E6E6">AiPC-Core</text>
+<text x="690.0" y="72.0" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" fill="#6B6B6B">один локальный сервис</text><line x1="360" y1="56" x2="540" y2="56" stroke="#6B6B6B"/><path d="M540 56l-7-3.5v7z" fill="#6B6B6B"/><text x="450" y="46" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6B6B6B">MCP / stdio</text>
+<g stroke="#6B6B6B" fill="none"><path d="M690 84V122M127.5 122H772.5"/><path d="M127.5 122V156"/><path d="M342.5 122V156"/><path d="M557.5 122V156"/><path d="M772.5 122V156"/></g>
+<rect x="30" y="156" width="195" height="72" fill="#141414" stroke="#2E2E2E"/>
+<text x="127.5" y="190.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#E6E6E6">Vision</text>
+<text x="127.5" y="208.0" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" fill="#6B6B6B">скриншоты, дерево UI, окна</text><rect x="245" y="156" width="195" height="72" fill="#141414" stroke="#2E2E2E"/>
+<text x="342.5" y="190.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#E6E6E6">Control</text>
+<text x="342.5" y="208.0" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" fill="#6B6B6B">мышь, клавиатура, приложения</text><rect x="460" y="156" width="195" height="72" fill="#141414" stroke="#2E2E2E"/>
+<text x="557.5" y="190.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#E6E6E6">Browser</text>
+<text x="557.5" y="208.0" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" fill="#6B6B6B">Chrome через CDP, история</text><rect x="675" y="156" width="195" height="72" fill="#141414" stroke="#2E2E2E"/>
+<text x="772.5" y="190.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#E6E6E6">System / Net</text>
+<text x="772.5" y="208.0" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" fill="#6B6B6B">файлы, терминал, SSH, процессы</text><text x="450" y="254" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6B6B6B">see (screen_see)  →  do  →  re-see</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
+<rect x=".5" y=".5" width="899" height="239" rx="8" fill="#0A0A0A" stroke="#2E2E2E"/>
+<text x="48" y="112" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="64" font-weight="700" letter-spacing="-2" fill="#E6E6E6">AiPC</text>
+<text x="50" y="148" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" fill="#A8A8A8">Give the agent a real PC.</text>
+<text x="50" y="206" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6B6B6B">Local MCP service  /  70 tools  /  Windows, macOS, Linux</text>
+<line x1="470" y1="40" x2="470" y2="200" stroke="#2E2E2E"/>
+<rect x="520" y="96" width="96" height="52" fill="#141414" stroke="#2E2E2E"/>
+<text x="568" y="119" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#E6E6E6">see</text>
+<text x="568" y="137" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6B6B6B">screen_see</text><rect x="660" y="96" width="96" height="52" fill="#141414" stroke="#2E2E2E"/>
+<text x="708" y="119" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#E6E6E6">do</text>
+<text x="708" y="137" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6B6B6B">mouse / keys</text>
+<rect x="780" y="96" width="96" height="52" fill="#141414" stroke="#2E2E2E"/>
+<text x="828" y="119" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#E6E6E6">verify</text>
+<text x="828" y="137" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6B6B6B">assert_ui</text>
+<g stroke="#6B6B6B" fill="none"><path d="M616 122h44M756 122h24"/><path d="M828 148v28H568v-28" stroke-dasharray="3 3"/></g>
+<g fill="#6B6B6B"><path d="M660 122l-6-3v6zM780 122l-6-3v6zM568 148l-3 6h6z"/></g>
+</svg>

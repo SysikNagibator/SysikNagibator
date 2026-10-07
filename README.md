@@ -1,167 +1,101 @@
-<!--
-**SysikNagibator/SysikNagibator** is a ✨ special ✨ repository: this README.md appears on the GitHub profile.
-Картинки лежат в папке assets/ в корне этого же репозитория.
--->
+<img src="assets/aipc_banner.svg" alt="AiPC" width="100%">
 
-<div align="center">
-  <img src="assets/hero.jpg" alt="SYSIK" width="100%"/>
-</div>
+<br>
 
-<div align="center">
-  <a href="https://github.com/SysikNagibator">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=900&color=4D8DFF&center=true&vCenter=true&random=false&width=640&lines=SYSIK+%F0%9F%91%BE;Just+Me+%E2%9C%A8;Welcome+to+my+profile+%F0%9F%8C%8C;Code+%7C+Create+%7C+Repeat+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</div>
+# SYSIK
 
-<br/>
+Разработчик. Делаю инструменты, которые дают ИИ-агентам рабочий доступ к настоящему компьютеру.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2F6BFF&height=2" width="100%" alt=""/>
-</div>
-
-<br/>
-
-<!-- 🎯 Коротко обо мне -->
-<div align="center">
+<img src="assets/divider.svg" width="100%" alt="">
 
 <table>
-  <tr>
-    <td align="center" width="260">
-      <img src="assets/wallet.png" width="150" alt="Projects"/>
-      <br/><br/>
-      <b>⚡ Работаю над</b>
-      <br/>
-      <sub>Новыми проектами</sub>
-    </td>
-    <td align="center" width="260">
-      <img src="assets/headset.png" width="150" alt="Ask me"/>
-      <br/><br/>
-      <b>💬 Спроси меня</b>
-      <br/>
-      <sub>О чём угодно</sub>
-    </td>
-    <td align="center" width="260">
-      <img src="assets/chat.png" width="150" alt="Contact"/>
-      <br/><br/>
-      <b>📫 Открыт к общению</b>
-      <br/>
-      <sub>И к сотрудничеству</sub>
-    </td>
-  </tr>
+<tr>
+<td width="64"><img src="assets/work.svg" width="48" alt=""></td>
+<td><b>Работаю над</b><br>Новыми проектами</td>
+<td width="64"><img src="assets/learning.svg" width="48" alt=""></td>
+<td><b>Изучаю</b><br>Новые технологии</td>
+<td width="64"><img src="assets/collab.svg" width="48" alt=""></td>
+<td><b>Открыт к</b><br>Сотрудничеству</td>
+</tr>
+<tr>
+<td><img src="assets/ask.svg" width="48" alt=""></td>
+<td><b>Спроси меня</b><br>О чём угодно</td>
+<td><img src="assets/fun.svg" width="48" alt=""></td>
+<td><b>Фан-факт</b><br>Just me</td>
+<td><img src="assets/contact.svg" width="48" alt=""></td>
+<td><b>Связаться</b><br>Ссылки ниже</td>
+</tr>
 </table>
 
-</div>
+<img src="assets/divider.svg" width="100%" alt="">
 
-<br/>
+## Стек
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2F6BFF&height=2" width="100%" alt=""/>
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-222?style=flat-square&labelColor=222) ![TypeScript](https://img.shields.io/badge/TypeScript-222?style=flat-square&labelColor=222) ![Python](https://img.shields.io/badge/Python-222?style=flat-square&labelColor=222) ![React](https://img.shields.io/badge/React-222?style=flat-square&labelColor=222) ![Node.js](https://img.shields.io/badge/Node.js-222?style=flat-square&labelColor=222) ![Docker](https://img.shields.io/badge/Docker-222?style=flat-square&labelColor=222) ![Linux](https://img.shields.io/badge/Linux-222?style=flat-square&labelColor=222) ![Git](https://img.shields.io/badge/Git-222?style=flat-square&labelColor=222)
 
-<br/>
+---
 
-<!-- 🖼️ Витрина -->
-<h2 align="center">✨ Витрина</h2>
+## Что я делаю
 
-<div align="center">
+Инструменты, с которыми ИИ-агенты выполняют реальную работу на реальном компьютере. Локально, на открытых стандартах: агент смотрит на экран, действует и проверяет каждый шаг.
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="assets/card.jpg" width="100%" alt="RollyPay card"/>
-      <br/>
-      <sub><b>Карты</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="assets/sbp.jpg" width="100%" alt="RollyPay SBP QR"/>
-      <br/>
-      <sub><b>СБП · оплата по QR</b></sub>
-    </td>
-  </tr>
-</table>
+| Направление   | Что это                                                 |
+| ------------- | ------------------------------------------------------- |
+| Agent tooling | MCP-серверы, нативные вызовы инструментов, ошибки       |
+| Automation    | Экран, мышь, клавиатура, браузер, файлы, терминал, SSH  |
+| Safety        | Режимы `ask` / `auto` / `read-only` на стороне сервера  |
+| Open source   | MIT, разработка в открытую                              |
 
-</div>
+---
 
-<br/>
+## AiPC
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2F6BFF&height=2" width="100%" alt=""/>
-</div>
+[<img src="assets/aipc_banner.svg" alt="AiPC" width="100%">](https://github.com/SysikNagibator/AiPC)
 
-<br/>
+![stars](https://img.shields.io/github/stars/SysikNagibator/AiPC?style=flat-square&labelColor=222&color=444) ![release](https://img.shields.io/github/v/release/SysikNagibator/AiPC?style=flat-square&labelColor=222&color=444) ![license](https://img.shields.io/badge/license-MIT-444?style=flat-square&labelColor=222)
 
-<!-- 🛠️ Стек -->
-<h2 align="center">🛠️ Мой стек</h2>
+**AiPC** — локальный сервис и консольная утилита, которая даёт любому ИИ-агенту полный доступ к компьютеру по открытому стандарту **MCP** (Model Context Protocol). Агент перестаёт быть «текстом в чате» и работает как человек за ПК.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,git,docker,linux,vscode,figma&theme=dark&perline=6" alt="Tech Stack"/>
-</div>
+| Обычные ограничения агента | С AiPC                                                        |
+| -------------------------- | ------------------------------------------------------------- |
+| Нет экрана                 | `screen_see` — скриншот как нативный image-блок               |
+| Клики наугад               | `ui_snapshot` / `ui_find` — готовые координаты                |
+| Печать в пустоту           | `focus_type` — проверенный фокус, не печатает вслепую         |
+| Спит и надеется            | `wait_for_window` / `wait_for_ui_element` / `wait_for_change` |
+| Сработало ли — неизвестно  | `screenshot_diff`, `assert_ui`, `audit.log`                   |
+| Нет доступа к машине       | Файлы, терминал, процессы, SSH/SFTP, браузер, буфер обмена    |
 
-<br/>
+[Полный README](https://github.com/SysikNagibator/AiPC#readme) · [Релизы](https://github.com/SysikNagibator/AiPC/releases) · [Changelog](https://github.com/SysikNagibator/AiPC/blob/main/CHANGELOG.md)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
-</div>
+```
+[ Агент в любой IDE ] --MCP/stdio--> [ AiPC-Core: один локальный сервис ]
+                                              |
+          +------------------+----------------+------------------+
+          |                  |                |                  |
+        Vision            Control          Browser           System/Net
+     скриншоты,         мышь+клавиши,     ваш Chrome      файлы, терминал,
+     дерево UI,         приложения,       через CDP,      процессы, SSH,
+     окна               буфер обмена      JS eval         поиск, sysinfo
+```
 
-<br/>
+Цикл агента: **see (`screen_see`) → do → re-see для проверки.**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2F6BFF&height=2" width="100%" alt=""/>
-</div>
+> AiPC предназначен для личной автоматизации и тестирования на вашей машине. Не используйте для несанкционированного доступа.
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt="">
 
-<!-- 📊 Статистика -->
-<h2 align="center">📊 Статистика GitHub</h2>
+## Статистика
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SysikNagibator&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=4D8DFF&icon_color=4D8DFF&text_color=C9D1D9" height="180" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SysikNagibator&layout=compact&hide_border=true&bg_color=0D1117&title_color=4D8DFF&text_color=C9D1D9&langs_count=8" height="180" alt="Top languages"/>
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SysikNagibator&show_icons=true&count_private=true&include_all_commits=true&bg_color=0A0A0A&title_color=E6E6E6&text_color=A8A8A8&icon_color=6B6B6B&border_color=2E2E2E&border_radius=6) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SysikNagibator&layout=compact&langs_count=8&bg_color=0A0A0A&title_color=E6E6E6&text_color=A8A8A8&border_color=2E2E2E&border_radius=6)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SysikNagibator&theme=dark&hide_border=true&background=0D1117&stroke=2F6BFF&ring=4D8DFF&fire=4D8DFF&currStreakLabel=4D8DFF" alt="GitHub Streak"/>
-</div>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SysikNagibator&background=0A0A0A&border=2E2E2E&stroke=2E2E2E&ring=A8A8A8&fire=A8A8A8&currStreakNum=E6E6E6&sideNums=E6E6E6&currStreakLabel=A8A8A8&sideLabels=A8A8A8&dates=6B6B6B&borderRadius=6)
 
-<br/>
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=SysikNagibator&bg_color=0A0A0A&color=A8A8A8&line=A8A8A8&point=E6E6E6&area=true&area_color=2E2E2E&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SysikNagibator&theme=react-dark&bg_color=0D1117&color=4D8DFF&line=2F6BFF&point=FFFFFF&hide_border=true" width="100%" alt="Activity graph"/>
-</div>
+<img src="assets/divider.svg" width="100%" alt="">
 
-<br/>
+## Контакты
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2F6BFF&height=2" width="100%" alt=""/>
-</div>
+[![Telegram](https://img.shields.io/badge/Telegram-@sysgood-222?style=flat-square&logo=telegram&logoColor=white&labelColor=222)](https://t.me/sysgood) [![GitHub](https://img.shields.io/badge/GitHub-SysikNagibator-222?style=flat-square&logo=github&logoColor=white&labelColor=222)](https://github.com/SysikNagibator)
 
-<br/>
-
-<!-- 📫 Контакты -->
-<h2 align="center">📫 Свяжись со мной</h2>
-
-<div align="center">
-  <a href="https://t.me/sysgood">
-    <img src="https://img.shields.io/badge/Telegram-2F6BFF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://github.com/SysikNagibator">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SysikNagibator&label=Profile+Views&color=2F6BFF&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/SysikNagibator?label=Followers&style=for-the-badge&color=2F6BFF&logo=github" alt="Followers"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B2A8F&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=25&fontColor=ffffff&animation=twinkling" width="100%" alt="Footer"/>
-</div>
+![Views](https://komarev.com/ghpvc/?username=SysikNagibator&label=views&color=444&style=flat-square)
